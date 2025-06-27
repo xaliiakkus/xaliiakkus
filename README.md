@@ -49,8 +49,8 @@ Bilgisayarlara ve kahveye tutkuyla bağlıyım. Modern arayüzler ve güçlü ar
 ## 🔗 Bana Ulaşın
 
 <p align="center">
-  <a href="mailto:mail@xaliiakkus.com"><img src="https://img.shields.io/badge/E-posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/xaliiakkus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mail@xaliakkus@gmail.com"><img src="https://img.shields.io/badge/E-posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/xaliakkus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/xaliiakkus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
