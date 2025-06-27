@@ -1,6 +1,6 @@
 <!-- Banner veya GIF ekleyin -->
 <p align="center">
-  <img src="https://readme-hero-images.githubusercontent.com/banner?style=wave&fontSize=60&width=1000&height=300&center=true&text=Merhaba%2C%20ben%20xaliiakkus!" alt="Hoşgeldiniz Bannerı"/>
+  <img src="https://raw.githubusercontent.com/xaliiakkus/xaliiakkus/main/assets/profile-banner.gif" alt="Hoşgeldiniz Bannerı" style="width:100%;max-width:1000px;height:auto;border-radius:16px;"/>
 </p>
 
 <h1 align="center">🚀 Merhaba, ben xaliiakkus!</h1>
@@ -33,7 +33,13 @@ Bilgisayarlara ve kahveye tutkuyla bağlıyım. Modern arayüzler ve güçlü ar
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xaliiakkus/xaliiakkus/main/assets/tech-matrix.gif" alt="Kullandığım Teknolojiler" style="max-width:850px;width:100%;border-radius:14px;"/>
 </p>
 
 ---
@@ -57,5 +63,5 @@ Bilgisayarlara ve kahveye tutkuyla bağlıyım. Modern arayüzler ve güçlü ar
 ---
 
 <p align="center">
-  <img src="https://readme-hero-images.githubusercontent.com/banner?style=rainbow&fontSize=48&width=800&height=75&center=true&text=Kodlamaya+devam+et!+🚀" alt="Devam Et Bannerı"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjkwY2N3d3NndGZ6d2g4ZTNwNnZzN3R4a2QyOHo2bG9qNHR6a2k5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XreQmk7ETCak0/giphy.gif" alt="Devam Et Bannerı" style="max-width:800px;width:100%;border-radius:12px;"/>
 </p>
