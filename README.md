@@ -72,37 +72,31 @@ Seyahat, fotoğrafçılık ve video oyunları da hobilerim arasında.
 
 ---
 
-## 🧩 Eğlencelik
+## 🚀 Projelerim
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnE5MG1tMmJpZDFvZnNseXZxMGgydHR6YnB1dXU0bHJjamFjcGRwbCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/uurtMtTKqkJda4dk8Y/giphy.gif" width="400"/>
+  <b>sales.eu.com</b><br/>
+  <a href="https://sales.eu.com/" target="_blank">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN0cGVwNnRlOW9jZXl3ZGloaTl6bmpnZG50YzI4aWk5NTRseXpiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>heimdal.us.com</b><br/>
+  <a href="https://heimdal.us.com/" target="_blank">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNzeGNoN2plb2IwZWlvczJhc3FlZzZncm44Z3FtempsYjl3NzZ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>200soru.uk.com</b><br/>
+  <a href="https://200soru.uk.com/" target="_blank">
+    <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="400"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
   ⭐ Profilime göz attığın için teşekkürler!
-</p>
-
-
-<p align="center">
-  sales.eu.com
-  <a href="https://sales.eu.com/" width="400">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjN0cGVwNnRlOW9jZXl3ZGloaTl6bmpnZG50YzI4aWk5NTRseXpiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
-
-  </a>
-</p>
-
-<p align="center">
-  heimdal.us.com
-  <a href="https://heimdal.us.com/" width="400">
-      <img src="media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNzeGNoN2plb2IwZWlvczJhc3FlZzZncm44Z3FtempsYjl3NzZ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
-  </a>
-</p>
-
-<p align="center">
-  200soru.uk.com
-  <a href="https://200soru.uk.com/" width="400">
-      <img src="media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="400"/>
-  </a>
 </p>
