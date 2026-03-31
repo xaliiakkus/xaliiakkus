@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=200&section=header&text=Ali Akkuş&fontSize=40&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=200&section=header&text=BeniTanıyın&fontSize=40&fontAlignY=35"/>
 </p>
 
 <h1 align="center">🚀 Merhaba, ben Ali Akkuş</h1>
