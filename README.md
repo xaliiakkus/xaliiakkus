@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=200&section=header&text=xaliiakkus&fontSize=40&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=200&section=header&text=aliakkus&fontSize=40&fontAlignY=35"/>
 </p>
 
-<h1 align="center">🚀 Merhaba, ben xaliiakkus!</h1>
+<h1 align="center">🚀 Merhaba, ben Ali Akkuş</h1>
 <p align="center">Yazılım geliştirici | Teknoloji tutkunu | Yaratıcı projeler</p>
 
 <p align="center">
